@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muazhri
+- 👋 Hi, I’m M Azis Muhemin Tohari
 - 👀 I’m interested in UI/UX Designer || Front-End Developer 
 - 🌱 I’m currently learning Mobile Developer with Dicoding
 - 📫 How to reach me email me : muhaiminaziz216@gmail.com
