@@ -1,7 +1,6 @@
 - 👋 Hi, I’m M Azis Muhemin Tohari
 - 👀 I’m interested in UI/UX Designer || Full Stack Developer 
-- 🌱 I’m currently learning Mobile Developer with Dicoding
-- 👨🏻‍💻 I'm Student At Ruangguru Camp Front-End Engineering
+- 🌱 I’m currently learning web Developer with Youtube
 - 📫 How to reach me email me : muhaiminaziz216@gmail.com
 
 <!---
